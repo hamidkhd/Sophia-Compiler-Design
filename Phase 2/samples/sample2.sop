@@ -1,0 +1,6 @@
+class A {
+    def void m(){
+        a: func<void->void>;
+        b: int;
+    }
+}
